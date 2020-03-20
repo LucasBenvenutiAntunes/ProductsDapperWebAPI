@@ -1,5 +1,3 @@
-# Wather
-
 # Desafio
 
 ## 1. Problema
@@ -31,7 +29,7 @@ Remove um produto
 Retorna a lista dos produtos em ordem decrescente do último produto cadastrado.
 
 ## 3.0 Bônus:
-No item 2.2.4, fazer com que o retorno seja uma lista paginada dos produtos cadastrados
+Fazer com que o retorno seja uma lista paginada dos produtos cadastrados
 
 ## 4.0 Premissas:
 - Versionar o código.
